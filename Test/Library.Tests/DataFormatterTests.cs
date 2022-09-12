@@ -48,7 +48,7 @@ public class DataFormatterTests
     {
         /*
         En este test se verifica  en el caso de que la fecha 
-        tenga un formato incorrecto.
+        tenga un formato vacio.
         */
 
         // Configuración:
